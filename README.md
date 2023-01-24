@@ -1,6 +1,6 @@
 ### An easy way to make Loops in Wordpress
 
-PHP has a "Escaping from HTML" feature in case of ** Conditionals **and **Loops**. To read more about it, follow the [Escaping from HTML Link](https://www.php.net/manual/en/language.basic-syntax.phpmode.php "Escaping from HTML Link"). 
+PHP has a "Escaping from HTML" feature in case of **Conditionals** and **Loops**. To read more about it, follow the [Escaping from HTML Link](https://www.php.net/manual/en/language.basic-syntax.phpmode.php "Escaping from HTML Link"). 
 
 To use this feature in Wordpress, just take a look:
 
