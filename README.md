@@ -1,5 +1,5 @@
 ### An easy way to make Loops in Wordpress
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZagaz%2Fwordpress-file-path&count_bg=%234970A0&title_bg=%23555555&icon=wordpress.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZagaz%2Fwordpress-the-loop-escaping-from-HTML&count_bg=%233C8A7C&title_bg=%23555555&icon=wordpress.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 PHP has a "Escaping from HTML" feature in case of **Conditionals** and **Loops**. To read more about it, follow the [Escaping from HTML Link](https://www.php.net/manual/en/language.basic-syntax.phpmode.php "Escaping from HTML Link"). 
 
